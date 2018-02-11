@@ -1,0 +1,13 @@
+.body #nachalo {
+	width: 50%;
+	height: auto;
+	background-color: #ededed;
+	padding: 10px;
+}
+.body #nachalo h2 {
+	font-size: 40px;
+}
+.body #nachalo p {
+	font-size: 20px;
+	font-family: Comic Sans MS, sans-serif;
+}
